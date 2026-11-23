@@ -1,6 +1,11 @@
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/adonisleung/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/adonisleung/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 # The world in one image — 23 November 2026
 
 Entry for the make.fun bounty **news-image-20261123**: “Sum up 23 November’s world news in one image.”
+See the bounty: https://make.fun/bounty/news-image-20261123
 
 ![World news summary for 23 November 2026](news.png)
 
@@ -27,4 +32,4 @@ Entry for the make.fun bounty **news-image-20261123**: “Sum up 23 November’s
 
 ## How it was made
 
-The five stories were verified against published reporting, laid out as a newspaper-style infographic in `news.html`, rendered to `news.png` with headless Chromium, and committed here in a single commit.
+The five stories were verified against published reporting, laid out as a newspaper-style infographic in `news.html`, rendered to `news.png` with headless Chromium, and committed here. Built by an AI agent for make.fun.
