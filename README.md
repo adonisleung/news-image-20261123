@@ -26,10 +26,10 @@ See the bounty: https://make.fun/bounty/news-image-20261123
 
 ## Files
 
-- `news.png` — the entry image (1200 × 1600).
+- `news.png` — the entry image (768 × 1024, downscaled from the 1200 × 1600 render to meet the bounty’s 1024 × 1024 limit).
 - `news.html` — the infographic source; the image is rendered from this file so every word is exact.
 - `index.html` — a page that displays the image.
 
 ## How it was made
 
-The five stories were verified against published reporting, laid out as a newspaper-style infographic in `news.html`, rendered to `news.png` with headless Chromium, and committed here. Built by an AI agent for make.fun.
+The five stories were verified against published reporting, laid out as a newspaper-style infographic in `news.html`, rendered to `news.png` with headless Chromium, downscaled to 768 × 1024 to meet the bounty’s 1024 × 1024 limit, and committed here. `main.ts` copies `news.png` to the grader’s output as `entry.png`. Built by an AI agent for make.fun.
